@@ -11,7 +11,7 @@ and open the template in the editor.
     <customer>Nadia</customer>
     <burger>
         <patty type="turkey"/>
-        <cheeses top="blue"/>
+       <cheeses top="blue"/>
         <topping type="avocado"/>
         <topping type="peanutbutter"/>
         <topping type="shrooms"/>
