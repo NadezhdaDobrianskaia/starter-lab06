@@ -8,7 +8,7 @@ and open the template in the editor.
 <!DOCTYPE order SYSTEM 'bonanza1.dtd'>
 
 <order type="takeout">
-    <customer>
+    <customer>George</customer>
         <burger>
             <patty type="beef"/>
             <cheeses top="american" bottom="swiss"/>
@@ -27,6 +27,6 @@ and open the template in the editor.
             <topping type="salsa"/>
             <sauce type="fksauce"/>
         </burger>
-    </customer>
+    
     
 </order>
