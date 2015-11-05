@@ -54,7 +54,7 @@ explicitly  -->
 <!-- Toppings... there could be tons, so we'll handle them individually  -->
 <!ELEMENT topping (#PCDATA)>
 <!ATTLIST topping
-    type    (lettuce|tomato|raw|dill|roasted|shrooms|salsa|bacon|chilies|fkchili|avocado|egg|porkbelly) #REQUIRED
+    type    (lettuce|tomato|raw|dill|roasted|shrooms|salsa|bacon|chilies|fkchili|avocado|egg|porkbelly|peanutbutter) #REQUIRED
 >
 
 <!-- sauces are similar to toppings  -->
