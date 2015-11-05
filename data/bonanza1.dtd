@@ -8,6 +8,7 @@ Order placement data for Barker Bob's Burger Bar's Bigger, Better Burger Bonanza
     PUBLIC ID  : -//vendor//vocabulary//EN
     SYSTEM ID  : http://server/path/__NAME__
 -->
+
 <!-- An order identifies the customer, order type, burgers, and anything special  -->
 <!ELEMENT order (customer, delivery?, burger+, special?)>
 
